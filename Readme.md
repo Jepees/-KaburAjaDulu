@@ -2,6 +2,12 @@
 
 Proyek ini bertujuan untuk menganalisis percakapan warganet mengenai tagar #KaburAjaDulu di platform Twitter dan YouTube. Analisis mencakup sentimen publik, topik utama, serta narasi populer yang muncul dalam diskusi daring terkait isu sosial dan politik.
 
+## Struktur Repository
+- `Data Gathering` - berisi notebook pengumuplan data, dan penggabungan data-data
+- `assets` -  berisi gambar-gambar yang diperlukan (saat ini hanya bersisi screenshots dari top 6 engagements tweets)
+- `tweets-data` - berisi data-data hasil crawling, penggabungan, dan pelabelan (yang digunakan untuk mining insight hanya data bernama `dataUTSfix.csv` di dalam folder Labeling. [dataUTSfix.csv](tweets-data/Labeling/dataUTSfix.csv)
+
+  
 # Latar Belakang
 - Analisis berfokus pada respons sosial generasi muda  Indonesia yang tercemin pada tagar #KaburAjaDulu di media sosial, sebagai bentuk ekspresi terhadap kondisi dalam negeri yang dirasa tidak memberikan cukup harapan dan peluang untuk masa depan. 
 
