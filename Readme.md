@@ -36,3 +36,5 @@ Adalah bentuk respon warganet terhadap kondisi Indonesia belakangan ini.
 - Sentimen didominasi pandangan Pro (54,1%), ini menunjukkan bahwa sebagian besar warganet memandang ide "kabur" atau pindah ke luar negeri sebagai pilihan yang realistis, menjanjikan, dan layak dipertimbangkan. Pandangan ini didukung oleh berbagai alasan, seperti peluang kerja yang lebih terbuka di luar negeri, kesulitan mencari pekerjaan di dalam negeri, serta kekecewaan terhadap kebijakan pemerintah. Sebagian memandang negatif (16,5%), menunjukkan adanya penolakan terhadap gagasan “kabur” ke luar negeri. Beberapa pengguna menganggap tindakan tersebut sebagai bentuk mental yang lemah, tidak bertanggung jawab, dan cenderung lari dari masalah. Narasi ini juga dikaitkan dengan nilai-nilai nasionalisme, di mana mereka yang memilih pergi dianggap tidak cinta tanah air atau bahkan sebagai pengkhianat bangsa.
 
 - Pola percakapan melonjak tinggi pada tanggal 28 Februari 2025, yang kemungkinan menjadi titik balik wacana publik terkait topik ini dengan munculnya isu nasional lainnya. Namun setelah tanggal tersebut, banyak pula masyarakat yang mengekspresikan emosionalnya.
+
+# Kontributor Utama
