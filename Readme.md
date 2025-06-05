@@ -38,3 +38,12 @@ Adalah bentuk respon warganet terhadap kondisi Indonesia belakangan ini.
 - Pola percakapan melonjak tinggi pada tanggal 28 Februari 2025, yang kemungkinan menjadi titik balik wacana publik terkait topik ini dengan munculnya isu nasional lainnya. Namun setelah tanggal tersebut, banyak pula masyarakat yang mengekspresikan emosionalnya.
 
 # Kontributor Utama
+Studi ini dilakukan oleh mahasiswa **Universitas Islam Negeri Syarif Hidayatullah Jakarta**, Fakultas **Sains dan Teknologi**, Program Studi **Matematika**:  
+
+| Nama                          | NIM            |
+| ----------------------------- | -------------- |
+| Dani Hidayat                  | 11220940000014 |
+| Nadira Desriyani              | 11220940000071 |
+| Marwah Habibah Rangkuti       | 11220940000040 |
+| Rihadatulaisy Nahsya Arawinda | 11220940000059 |
+
